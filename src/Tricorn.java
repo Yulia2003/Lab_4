@@ -47,6 +47,7 @@
 
             return numIters;
          }
+// Сombo-boxe в Swing может управлять коллекцией объектов/возвращает имя
      @Override
      public String toString() {
          return "Tricorn";
