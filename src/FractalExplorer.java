@@ -83,7 +83,7 @@ public class FractalExplorer {
         buttonReset.addActionListener(new ActionHandler());
 
         // кнопка сохранить
-        buttonSave = new JButton("Save image"); //6
+        buttonSave = new JButton("Save image"); //
         buttonSave.setActionCommand("Save");
         buttonSave.addActionListener(new ActionHandler());
         //добавить реализации  генератора фракталов
